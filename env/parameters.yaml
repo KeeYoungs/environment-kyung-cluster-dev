@@ -1,0 +1,10 @@
+adminUser:
+  password: local:kyung-cluster/adminUser:password
+  username: ' admin'
+enableDocker: false
+pipelineUser:
+  email: ykylfc09@gmail.com
+  token: local:kyung-cluster/pipelineUser:token
+  username: KeeYoungYoon
+prow:
+  hmacToken: local:kyung-cluster/prow:hmacToken
