@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: KeeYoungYoon
+    provider: github
+    repository: msa-guild-jx-test
+  name: keeyoungyoon-msa-guild-jx-test
+spec:
+  description: Imported application for KeeYoungYoon/msa-guild-jx-test
+  httpCloneURL: https://github.com/KeeYoungYoon/msa-guild-jx-test.git
+  org: KeeYoungYoon
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: msa-guild-jx-test
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/KeeYoungYoon/msa-guild-jx-test.git
