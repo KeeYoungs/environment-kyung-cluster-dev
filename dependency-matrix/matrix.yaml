@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: KeeYoungYoon
+  repo: msa-guild-jx-test
+  url: https://github.com/KeeYoungYoon/msa-guild-jx-test.git
+  version: ""
+  versionURL: ""
